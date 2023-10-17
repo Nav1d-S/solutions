@@ -76,7 +76,22 @@
 
 #|
 Enter your answers to the questions from the homework below:
+Without any changes, does it seem that the game favors one type of roll? If so, what.
+The game would favor odd rolls instead of even rolls, as when you roll odd then there is only
+one instance where you lose, but if you roll even there are two instances where you lose.
 
+Can you change that outcome by just changing the number of sides on the die?
+If so, how many sides did you change it to.
+No changing the amount of sides has no significant effect on the outcomes.   
+
+Going back to a 12 sided die, can you change that outcome by just changing the fail values?
+If so, what values did you change it to?
+Yes as if even or odd have more a diff fail value they would then be either more fair or unfair
+For example changing the fail value of evens to 1 and odds to 2 results in evens having more wins
+
+Modify whatever values you’d like, can you make the game fair
+(that is, neither even nor odd have a greater advantage). What values did you change?
+I had changed the failvalues for both even and odd to 1 and had both of them have 6 dicerolls each. 
 
 
 
